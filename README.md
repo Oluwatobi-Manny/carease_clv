@@ -176,10 +176,10 @@ cat_dum.head()
     print("Best Parameters:", best_params)
     ```
 
-![Best params](<Images/Screenshot (230).png>)
+    ![Best params](<Images/Screenshot (230).png>)
 
    * Evaluate the model's performance using metrics like mean squared error (MSE), root mean squared error (RMSE), and R-squared.
-   * Checked for the most important features
+   * Check for the most important features
 
 ![Important features](<Images/Screenshot (232).png>)
 
