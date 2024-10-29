@@ -14,8 +14,6 @@ CarEase, an autoinsurance company, aims to optimize its customer retention and a
 * Optimize marketing and sales efforts to acquire and nurture customers with high CLTV potential.
 * Make data-driven decisions to improve overall business performance.
 
-**Data Requirements:**
-
 </head>
 <body>
     <h2>CarEase Customer Dataset</h2>
