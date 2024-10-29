@@ -1,6 +1,6 @@
 *A comprehensive analysis of the total net profit CarEase customer is expected to bring over their entire lifetime*
 
-# Use Case: Enhancing Customer Lifetime Value (CLTV) at CarEase**
+# Use Case: Enhancing Customer Lifetime Value (CLTV) at CarEase
 ---
 
 **Problem Statement:**
@@ -16,24 +16,6 @@ CarEase, an autoinsurance company, aims to optimize its customer retention and a
 
 **Data Requirements:**
 
-<head>
-    <title>CarEase Customer Dataset</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-
-        th, td {
-            text-align: left;
-            padding: 8px;
-            border-bottom: 1px solid #ddd;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
 </head>
 <body>
     <h2>CarEase Customer Dataset</h2>
