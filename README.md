@@ -185,7 +185,7 @@ cat_dum.head()
 4. **Model Selection:**
    * Explore various regression models (e.g., linear regression, polynomial regression, decision trees, random forest, gradient boosting).
    
-![Model selection](<Images/Screenshot (225).png>)
+![Model selection](<Images/Screenshot (226).png>)
 
 5. **Model Training and Evaluation:**
    * Split the data into training and testing sets.
