@@ -170,15 +170,21 @@ cat_dum.head()
 5. **Model Training and Evaluation:**
    * Split the data into training and testing sets.
    * Train the selected model on the training data.
-   * Evaluate the model's performance using metrics like mean squared error (MSE), root mean squared error (RMSE), and R-squared.
-
-```
-# Get the best parameters
-best_params = grid.best_params_
-print("Best Parameters:", best_params)
-```
+   ```
+    # Get the best parameters
+    best_params = grid.best_params_
+    print("Best Parameters:", best_params)
+    ```
 
 ![Best params](<Images/Screenshot (230).png>)
+
+   * Evaluate the model's performance using metrics like mean squared error (MSE), root mean squared error (RMSE), and R-squared.
+   * Checked for the most important features
+
+![Important features](<Images/Screenshot (232).png>)
+
+
+
 
 **Business Applications:**
 ---
